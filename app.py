@@ -17,7 +17,7 @@ Use the navigation menu to:
 
 📘 Medicare Basics
 
-📋 Medicare Plan Explorer (coming soon)
+📋 Medicare Plan Explorer
 
 💊 Medication Coverage Checker (coming soon)
 """)
